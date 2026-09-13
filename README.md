@@ -160,9 +160,16 @@ I'm always interested in learning, building, and meeting other developers.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
 </a>
 
+   
+
+<a href="https://instagram.com/anuragp2077">
+  <img src="https://cdn.simpleicons.org/instagram" width="40" alt="Instagram" />
+</a>
+
 <br><br>
 
 **Thanks for stopping by! ⭐**
 
 </div>
+
 
